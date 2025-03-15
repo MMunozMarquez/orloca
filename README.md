@@ -1,6 +1,6 @@
 # orloca
 
-[![es](https://img.shields.io/badge/lang-es-green.svg)](https://github.com/MMunozMarquez/orloca/edit/main/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-green.svg)](https://github.com/MMunozMarquez/orloca/blob/main/README.es.md)
 
 ORLocA (Operations Research Locational Analysis) is an R package developed under General Public License.
 
